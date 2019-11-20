@@ -1,0 +1,12 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Quantity,Discount,Profit,Product ID,Customer Name,Category,Customer ID
+1,CA-2016-152156,08.11.16,11.11.16,Second Class,2,0,41.9136,FUR-BO-10001798,Claire Gute,Furniture,CG-12520
+2,CA-2016-152156,08.11.16,11.11.16,Second Class,3,0,219.582,FUR-CH-10000454,Claire Gute,Furniture,CG-12520
+3,CA-2016-138688,12.06.16,16.06.16,Second Class,2,0,6.8714,OFF-LA-10000240,Darrin Van Huff,Office Supplies,DV-13045
+4,US-2015-108966,11.10.15,18.10.15,Standard Class,5,0.45,-383.031,FUR-TA-10000577,Sean O'Donnell,Furniture,SO-20335
+5,US-2015-108966,11.10.15,18.10.15,Standard Class,2,0.2,2.5164,,Sean O'Donnell,Office Supplies,SO-20335
+6,CA-2014-115812,09.06.14,14.06.14,Standard Class,7,0,14.1694,FUR-FU-10001487,Brosina Hoffman,Furniture,BH-11710
+7,CA-2014-115812,09.06.14,14.06.14,Standard Class,4,0,1.9656,OFF-AR-10002833,Brosina Hoffman,Office Supplies,BH-11710
+8,CA-2014-115812,09.06.14,14.06.14,Standard Class,6,0.2,90.7152,TEC-PH-10002275,Brosina Hoffman,Technology,BH-11710
+9,CA-2015-117415,27.12.15,31.12.15,Standard Class,9,0.2,35.415,OFF-EN-10002986,Steve Nguyen,Office Supplies,SN-20710
+10,,09.06.14,14.06.14,Standard Class,5,0,34.47,OFF-AP-10002892,Brosina Hoffman,Office Supplies,BH-11710
+11,CA-2014-115812,09.06.14,14.06.14,Standard Class,9,0.2,85.3092,FUR-TA-10001539,Brosina Hoffman,Furniture,BH-11710
